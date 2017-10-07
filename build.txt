@@ -1,0 +1,7 @@
+author = 5
+version = 1.0.2
+displayName = Nocturnal
+hideCode = true
+hideResources = true
+includeSource = false
+homepage = https://forums.terraria.org/index.php?threads/nocturnal-mod.62549/
